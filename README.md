@@ -4,9 +4,10 @@ This repository is for the ones that are not experts, this is to learn and grow 
 This Project will be used to practice Data Analytics in various ways mainly with phyton, providing examples for handling data in structured manner. 
 I'm not an expert and I'm still learning how to code so if you have tip and trick on how can I improve please let me know I love learning 
 
-## **Contents **
+## Contents
 
 1) Data_Analytics_Learn_Together_1
+   
    a) Generate Data Frames for Practice
      - Here we will be learning and practicing how to generate our own data as a Data Frame in Phyton
    b) Case Study
