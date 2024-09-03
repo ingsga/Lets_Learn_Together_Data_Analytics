@@ -9,9 +9,9 @@ I'm not an expert and I'm still learning how to code so if you have any tips and
 1) Data_Analytics_Learn_Together_1
    
    a) Generate Data Frames for Practice
-     - Here we will be learning and practicing how to generate our own data as a Data Frame in Phyton
+   
    b) Case Study
-     - Using the data we randonmly generated we are going to do some Data Analysis together
+   
        - Gender Distribution
        - Age Analysis
        - Grade Distribution
