@@ -21,7 +21,9 @@ I'm not an expert and I'm still learning how to code so if you have any tips and
 ## **Usage**   
 
 1 .- Open the notebook to view and interact with it using Jupyter Notebook
+
 2.-  Run the Cells and Execute them to see the examples in action
+
 3 .- Modify and Experiment !! Feel free to modify the code and experiment with different DataFrame operations
 
 ## Contributing
