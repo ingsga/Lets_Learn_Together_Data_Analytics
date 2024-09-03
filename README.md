@@ -2,7 +2,7 @@
 This repository is for the ones that are not experts, this is to learn and grow together I believe in learn by doing and why not .... sharing knowledge
 
 This Project will be used to practice Data Analytics in various ways mainly with phyton, providing examples for handling data in structured manner. 
-I'm not an expert and I'm still learning how to code so if you have tip and trick on how can I improve please let me know I love learning 
+I'm not an expert and I'm still learning how to code so if you have any tips and trics on how can I improve please let me know I love learning 
 
 ## Contents
 
